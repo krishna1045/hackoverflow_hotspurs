@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "76526438937",
+    "project_id": "hackoverflow-7f8de",
+    "storage_bucket": "hackoverflow-7f8de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76526438937:android:0e0f21b76a50983566f888",
+        "android_client_info": {
+          "package_name": "com.flutterflow.hackoverflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76526438937-lri9745il447oi2sfroecir55dv1slqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.hackoverflow",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "76526438937-0if7povo4j95qsdkipjbv1hdi4c17l08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDVasXPhOxlKAkgjVvOJ7wu6uFivCPxKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76526438937-0if7povo4j95qsdkipjbv1hdi4c17l08.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "76526438937-68tti2hmorhdgcpe3qkv9p45kj09lu44.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.hackoverflow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
